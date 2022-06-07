@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/lesyaAsa" target="_blank">Olesya</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Programmer in the SUAI</h3>
 
 <img src="https://img.freepik.com/free-photo/pastel-sky-beautiful-background-romantic-background-dreamy-background_130147-1270.jpg" alt="облака">
 
