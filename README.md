@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Programmer in the SUAI</h3>
 
-<img src="https://img.freepik.com/free-photo/pastel-sky-beautiful-background-romantic-background-dreamy-background_130147-1270.jpg" alt="облака">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GPSOer0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg" alt="облака">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Best+frontend+developer+in+the+world)](https://git.io/typing-svg)
 
