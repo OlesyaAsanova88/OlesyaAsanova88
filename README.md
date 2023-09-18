@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/lesyaAsa" target="_blank">Olesya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Programmer in the SUAI</h3>
+<h3 align="center">Programmer</h3>
 
 <img src="https://miro.medium.com/max/1200/0*IM0ufbaLrfxTTSis" alt="облака">
 
